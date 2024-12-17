@@ -1,0 +1,15 @@
+zwh\kalman_filter.o: ..\BSP_BMI088\kalman_filter.c
+zwh\kalman_filter.o: ..\BSP_BMI088\kalman_filter.h
+zwh\kalman_filter.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h
+zwh\kalman_filter.o: ../Drivers/CMSIS/Include/core_cm4.h
+zwh\kalman_filter.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+zwh\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_version.h
+zwh\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+zwh\kalman_filter.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+zwh\kalman_filter.o: ../Drivers/CMSIS/Include/mpu_armv7.h
+zwh\kalman_filter.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
+zwh\kalman_filter.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+zwh\kalman_filter.o: ../Drivers/CMSIS/Include/core_cm4.h
+zwh\kalman_filter.o: D:\MDK5\ARM\ARMCC\Bin\..\include\string.h
+zwh\kalman_filter.o: D:\MDK5\ARM\ARMCC\Bin\..\include\math.h
+zwh\kalman_filter.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h

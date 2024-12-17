@@ -1,0 +1,12 @@
+zwh\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/list.c
+zwh\list.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdlib.h
+zwh\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+zwh\list.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+zwh\list.o: D:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+zwh\list.o: ../Core/Inc/FreeRTOSConfig.h
+zwh\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+zwh\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+zwh\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+zwh\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+zwh\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+zwh\list.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
